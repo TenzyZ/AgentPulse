@@ -1,0 +1,10 @@
+# AgentPulse local environment
+/.venv/
+/.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Test/cache files
+.pytest_cache/
